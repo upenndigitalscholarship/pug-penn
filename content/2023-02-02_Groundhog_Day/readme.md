@@ -1,0 +1,1 @@
+Groundhog Day predictions data and Jupyter notebook adapted from [How Accurate are Groundhog Day Predictions?](https://docmarionum1.medium.com/how-accurate-are-groundhog-day-predictions-577141dbe961) by Jeremy Neiman.
