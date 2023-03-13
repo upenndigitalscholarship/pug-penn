@@ -6,6 +6,6 @@ Join our newsletter to stay up to date with PUG@Penn: [bit.ly/pugatpenn](http://
 # About this repo
 Repository for PUG@Penn (Python Users Group) materials
 
-- Running agenda doc with topics and links to shared materials
+- [Running agenda doc](https://github.com/upenndigitalscholarship/pug-penn/blob/main/agenda.md) with topics and links to shared materials
 - Selected notebooks and datasets from meetups
 - JupyterLab at https://upenndigitalscholarship.github.io/pug-penn/ (might not work in Safari)
