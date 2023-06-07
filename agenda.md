@@ -11,7 +11,7 @@ Sept 7, 2023 -
 
 Apr 6, 2023 - Cara Cuiule and Eunji Oh from [Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/) present on Transformation and Analysis of Financial Data at WRDS
 
-Mar 2, 2023 - [Stephen Hall](https://www.library.upenn.edu/detail/person/stephen-hall)(UPenn Computer Science and Engineering Librarian) presents on data visualization with Python: [Notebooks](https://github.com/smhall817/dv)
+Mar 2, 2023 - [Stephen Hall](https://www.library.upenn.edu/detail/person/stephen-hall) (UPenn Computer Science and Engineering Librarian) presents on data visualization with Python: [Notebooks](https://github.com/smhall817/dv)
 
 Feb 2, 2023 - Groundhog Day data celebration: [Notebooks](/content/2023-02-02_Groundhog_Day/) 
 
