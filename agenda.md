@@ -3,7 +3,7 @@
 
 Nov 2, 2023 -
 
-Oct 5, 2023 - 
+Oct 5, 2023 - Joy Liu (Wharton '24: B.S. Economics and B.S.E. Computer Science), Platform Lead and DevOps engineer at [Penn Labs](https://pennlabs.org/) and Co-Director at [PennApps](https://pennapps.com/)
 
 Sept 7, 2023 - 
 
