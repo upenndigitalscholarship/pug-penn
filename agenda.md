@@ -3,9 +3,9 @@
 
 Nov 2, 2023 - [Ben Liebersohn](https://www.library.upenn.edu/staff/ben-liebersohn), Penn Libraries Geospatial and Mapping Fellow presents on mapping applications of Python
 
-Oct 5, 2023 - Joy Liu (Wharton '24: B.S. Economics and B.S.E. Computer Science), Platform Lead and DevOps engineer at [Penn Labs](https://pennlabs.org/) and Co-Director at [PennApps](https://pennapps.com/)
+~~Oct 5, 2023 - Joy Liu (Wharton '24: B.S. Economics and B.S.E. Computer Science), Platform Lead and DevOps engineer at [Penn Labs](https://pennlabs.org/) and Co-Director at [PennApps](https://pennapps.com/)~~ Cancelled due to illness - rescheduling soon!
 
-Sept 7, 2023 - J.D. Porter, Digital Humanities Project Specialist at [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) presents on text analysis with Python
+~~Sept 7, 2023 - J.D. Porter, Digital Humanities Project Specialist at [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) presents on text analysis with Python~~ Cancelled due to illness - rescheduling soon!
 
 # Spring 2023 semester
 
