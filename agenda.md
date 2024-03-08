@@ -1,6 +1,6 @@
 # Spring 2024 semester
 
-Mar 7, 2024 - [Sadiq Patel](https://sp2.upenn.edu/person/sadiq-patel/), Lecturer inthe Master of Science in Social Policy program (MSSP) at the University of Pennsylvania's School of Social Policy and Practice and team lead at [Waymark](https://www.waymarkcare.com/) speaks about his recent work [implementing machine learning in Python to assess and improve care delivery for people receiving Medicaid](https://doi.org/10.1038/s41598-023-51114-z). This session coincides with Penn Libraries' Python for Social Scientists Graduate Carpentries workshop.
+Mar 7, 2024 - [Sadiq Patel](https://sp2.upenn.edu/person/sadiq-patel/), Lecturer in the Master of Science in Social Policy program (MSSP) at the University of Pennsylvania's School of Social Policy and Practice and team lead at [Waymark](https://www.waymarkcare.com/) speaks about his recent work [implementing machine learning in Python to assess and improve care delivery for people receiving Medicaid](https://doi.org/10.1038/s41598-023-51114-z). This session coincides with Penn Libraries' Python for Social Scientists Graduate Carpentries workshop.
 
 
 # Fall 2023 semester
