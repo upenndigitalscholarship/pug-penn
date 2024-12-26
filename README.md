@@ -1,3 +1,6 @@
+> [!IMPORTANT] 
+> Please note that PUG@Penn is currently inactive as of 2023. If you are interested in taking on hosting and/or presentation duties, please contact us at LibraryRDDS@pobox.upenn.edu!
+
 # About PUG@Penn
 PUG@Penn (Python Users Group) brings together members of the Penn community interested in or already working with the popular open-source programming language Python. All are welcome - no prior experience with Python required!
 
